@@ -6,8 +6,8 @@
   "scripts": {
     "dev": "next dev"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Duzzk",
+  "license": "MIT",
   "dependencies": {
     "next": "^13.1.6",
     "react": "^18.2.0",
